@@ -1,0 +1,70 @@
+body {
+  background-image: url(../photos/pages.jpg);
+  background-attachment: fixed;
+}
+#imgDiv {
+  width: 300px;
+  float: left;
+  padding-top: 30px;
+}
+#paraDiv {
+  float: left;
+  width: 77%;
+}
+.headerDiv {
+  width: 50%;
+  padding-top: 5%;
+}
+.floatLeft {
+  float: left;
+}
+.floatRight {
+  float: right;
+}
+.para {
+  text-align: justify;
+  padding: 0px 15px;
+  margin: 20px;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bold;
+  color: silver;
+}
+
+h1 {
+  padding: 1px 15px;
+  margin: 20px;
+  color: rgb(184, 162, 39);
+  font-weight: normal;
+  text-decoration: double underline;
+  font-size: 40px;
+  font-style: italic;
+}
+h3 {
+  padding: 1px 15px;
+  margin: 20px;
+  color: rgb(184, 162, 39);
+  font-size: 30px;
+  font-style: italic;
+}
+a {
+  text-decoration: none;
+  font-style: italic;
+  line-height: 70px;
+  font-size: 35px;
+  font-weight: bold;
+  color: rgb(184, 162, 39);
+}
+#res,
+#awardNomination {
+  padding-left: 100px;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: bold;
+  color: silver;
+}
+
+.appendClass {
+  padding: 10px;
+  font-size: 17px;
+}

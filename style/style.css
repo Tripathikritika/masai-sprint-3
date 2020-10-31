@@ -1,0 +1,17 @@
+body {
+  background-image: url(../photos/info.jpg);
+}
+ul {
+  list-style-type: none;
+  margin: 1% 10% 24% 42%;
+  padding-top: 15%;
+  overflow: hidden;
+}
+a {
+  text-decoration: none;
+  font-style: italic;
+  line-height: 70px;
+  font-size: 45px;
+  font-weight: bold;
+  color: gold;
+}
