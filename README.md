@@ -15,7 +15,7 @@ The third sprint project done after completing three months @Masai School.
 
 ## Screenshots
 
-<img src="ScreenShot.png" alt="Landing Page" />
+<img src="./photos/ScreenShot.png" alt="Landing Page" />
 
 ## Installation
 
