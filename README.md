@@ -1,9 +1,25 @@
-Designed and Implemented a JS API Project where the API was Lord of the Rings API​.
-The LOTR Api gives all the in depth information about the Lord of the Rings series.
+## Lord of the rings
+The Project is designed and Implemented on Lord of the Rings API. The LOTR Api gives all the in depth information about the Lord of the Rings series.
 
-I have created a Lord of the rings website where in the home page,it gives an overview of the series. 
-The Home Page is followed by the Info Page where we have categorical information about the various movies, books and cast.
-The Book Page gives an overview of the various book written by J. R. R. Tolkien describing different stories of different time.
-The Movie Page gives an overview of the various movies released on the basis of the novel, in different years, and the number of awards won and awards nominated has been fetched.
-The Cast Page includes a search engine which takes input from the user, and  redirects to other tab if it matches your requirement or else shows an error message.
-And the final page fetches the data from the API and displays the name, gender, DOB, Death Date, spouse and realm of the desired cast.
+## Motivation
+The third sprint project done after completing three months @Masai School.
+
+## Tech/framework
+
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][jsplaylist]
+
+## Screenshot
+
+## Installation
+> - Clone the repo
+>   `git clone https://github.com/Tripathikritika/masai-sprint-3.git`
+
+## Credits
+`https://masaischool.com/`
+
+[cssplaylist]: #
+[webdevplaylist]: #
+[jsplaylist]: #
