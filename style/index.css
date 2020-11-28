@@ -1,6 +1,7 @@
 body {
   background-image: url(../photos/backgroundcolor.jpg);
   width: 100%;
+  background-repeat: no-repeat;
 }
 .imgDiv {
   width: 250px;
