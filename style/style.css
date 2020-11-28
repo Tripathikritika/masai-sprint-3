@@ -1,8 +1,6 @@
 body {
   background-image: url(../photos/info.jpg);
   background-repeat: no-repeat;
-  height: auto;
-  padding-bottom: 0px;
   height: 100vh;
 }
 ul {
